@@ -1,0 +1,8 @@
+{
+  "key": "tangem",
+  "gen": {
+    "logo": "logo.svg",
+    "hasDark": true,
+    "darkExt": "svg"
+  }
+}

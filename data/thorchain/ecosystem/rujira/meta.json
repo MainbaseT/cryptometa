@@ -1,4 +1,6 @@
 {
   "key": "rujira",
-  "gen": {}
+  "gen": {
+    "logo": "logo.svg"
+  }
 }
